@@ -1,0 +1,8 @@
+.mainHeader{
+    min-height: 5rem;
+}
+
+img,svg,iframe{
+    max-width: 100%;
+    height: auto;
+}
